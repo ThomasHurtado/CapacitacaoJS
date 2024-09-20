@@ -1,0 +1,14 @@
+#arrastar{
+    width: 400px;
+    height: 70px;
+    border: 1px solid black;
+    color:rebeccapurple;
+}
+
+.texto{
+    color:red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
